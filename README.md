@@ -1,4 +1,4 @@
-[![]([![](Profile.gif)]
+[](Profile.gif)
 
 ### Languages
 
