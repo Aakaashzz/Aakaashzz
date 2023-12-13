@@ -1,7 +1,8 @@
 ![](Profile.gif)
 
 
-### In terms of self-description ![image](https://github.com/Aakaashzz/Aakaashzz/assets/84792076/f9426706-14a4-4351-a4e6-a64853c1cbe8)
+### In terms of self-description ![image](https://github.com/Aakaashzz/Aakaashzz/assets/84792076/0e3fd099-70bc-4d29-9d2e-3b0f57453b17)
+
 
 
 ➼ I'm a cybersecurity professional with a proven track record in identifying and mitigating a wide range of cybersecurity threats, risks, and vulnerabilities. My expertise reflects a comprehensive understanding of the ever-evolving landscape of information security. 
