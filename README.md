@@ -15,7 +15,7 @@
 
 ➼ Additionally, I am competent in utilizing Security Information and Event Management (SIEM) tools to monitor and analyze security events, enabling proactive threat detection and rapid response to potential incidents.
 
-##  In-progress Ventures ![image](https://github.com/Aakaashzz/Aakaashzz/assets/84792076/eaf5b705-368b-45d2-ba30-bec0d7e887f6)
+##  In-progress Ventures 
 
 
 ### Ongoing Investigative Studies
