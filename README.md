@@ -20,11 +20,11 @@
 
 ### Ongoing Investigative Studies
 
-### Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection
+#### Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection
 
-### Advancements in Homomorphic Encryption: Exploring Applications and Technological Implications
+#### Advancements in Homomorphic Encryption: Exploring Applications and Technological Implications
 
-### Implementation and Analysis of the BB84 Quantum Key Distribution Protocol Utilizing the IBM Q QASM HPC Simulator
+#### Implementation and Analysis of the BB84 Quantum Key Distribution Protocol Utilizing the IBM Q QASM HPC Simulator
 
 
 
