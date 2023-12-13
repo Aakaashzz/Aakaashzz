@@ -1,5 +1,9 @@
 ![](Profile.gif)
 
+### About 
+
+I'm a cybersecurity professional with a proven track record in identifying and mitigating a wide range of cybersecurity threats, risks, and vulnerabilities. My expertise reflects a comprehensive understanding of the ever-evolving landscape of information security. Proficient in coding languages such as Python and Java, I apply secure coding practices to develop resilient and secure applications. Swift and effective incident response procedures are among my key strengths, allowing me to minimize potential impacts and prevent unauthorized access or data breaches. My extensive knowledge of security frameworks and controls is focused on implementing robust measures to safeguard critical systems and sensitive data. In addition, I am well-versed in security hardening techniques, ensuring that systems, networks, and applications are configured with the highest level of resilience against potential attacks. With command-line proficiency in Linux environments, I leverage the Linux command line for system administration, configuration, and security-related tasks to enhance overall cybersecurity posture. I am also recognized for my expertise in database security, particularly with MySQL, where I implement measures to protect against unauthorized access, SQL injection, and other database-related vulnerabilities. Additionally, I am competent in utilizing Security Information and Event Management (SIEM) tools to monitor and analyze security events, enabling proactive threat detection and rapid response to potential incidents.
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
