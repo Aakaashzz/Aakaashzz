@@ -15,11 +15,9 @@
 
 ➼ Additionally, I am competent in utilizing Security Information and Event Management (SIEM) tools to monitor and analyze security events, enabling proactive threat detection and rapid response to potential incidents.
 
-####  In-progress Ventures
+###  In-progress Ventures
 
 ## Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection (Research Paper)
-
-# Abstract
 
 Abstract
 
