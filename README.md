@@ -18,7 +18,7 @@
 ##  In-progress Ventures 
 
 
-### Ongoing Investigative Studies
+### Ongoing Research Studies
 
 #### Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection
 
