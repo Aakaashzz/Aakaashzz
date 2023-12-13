@@ -18,13 +18,13 @@
 ##  In-progress Ventures 
 
 
-### Ongoing Research Studies:
+### Ongoing Research Studies
 
-#### Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection
+#### 1. Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection
 
-#### Advancements in Homomorphic Encryption: Exploring Applications and Technological Implications
+#### 2. Advancements in Homomorphic Encryption: Exploring Applications and Technological Implications
 
-#### Implementation and Analysis of the BB84 Quantum Key Distribution Protocol Utilizing the IBM Q QASM HPC Simulator
+#### 3. Implementation and Analysis of the BB84 Quantum Key Distribution Protocol Utilizing the IBM Q QASM HPC Simulator
 
 
 
