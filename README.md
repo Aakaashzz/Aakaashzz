@@ -1,7 +1,7 @@
 ![](Profile.gif)
 
 
-### In terms of self-description ![image](https://github.com/Aakaashzz/Aakaashzz/assets/84792076/0e3fd099-70bc-4d29-9d2e-3b0f57453b17)
+### In-terms of self-description ![image](https://github.com/Aakaashzz/Aakaashzz/assets/84792076/0e3fd099-70bc-4d29-9d2e-3b0f57453b17)
 
 
 
@@ -14,6 +14,21 @@
 ➼ With command-line proficiency in Linux environments, I leverage the Linux command line for system administration, configuration, and security-related tasks to enhance overall cybersecurity posture. I am also recognized for my expertise in database security, particularly with MySQL, where I implement measures to protect against unauthorized access, SQL injection, and other database-related vulnerabilities.
 
 ➼ Additionally, I am competent in utilizing Security Information and Event Management (SIEM) tools to monitor and analyze security events, enabling proactive threat detection and rapid response to potential incidents.
+
+###  In-progress Ventures
+
+## Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection (Research Paper)
+
+# Abstract
+
+Abstract
+
+Cyber Physical Systems (CPS) are the computer systems where a process is controlled or monitored by computer-based algorithms. In CPS, physical and software components are deeply intertwined and interact with each other in ways that change with context. In this report, training included different Machine Learning models for anomaly detection and compared their performance based on the confusion matrix of predicted outcomes. These anomaly detection methods are: One-class SVM, Isolation Forest and Elliptic Envelope. The data from normal operation was extracted, cleaned and transformed. Thereafter, models were trained, tested on new data and accordingly their parameters were tuned for optimum performance. The objective of this analysis is to improve the security of continuous processes against deviation as well as intrusion detection capability.
+
+Keywords— Cyber Physical Systems (CPS), Anomaly Detection, Machine Learning, One-Class SVM, Isolation Forest, Elliptic Envelope, Principal Component Analysis (PCA), Dimensionality Reduction, Confusion Matrix, Imbalanced Datasets, Supervised and Unsupervised Learning.
+
+
+
 
 ### Languages
 
