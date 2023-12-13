@@ -17,14 +17,13 @@
 
 ###  In-progress Ventures
 
-## Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection (Research Paper)
+## Research Papers
 
-Abstract
+# Cognitive Computing in Cyber Physical Systems: A Paradigm Shift in Anomaly Detection
 
-Cyber Physical Systems (CPS) are the computer systems where a process is controlled or monitored by computer-based algorithms. In CPS, physical and software components are deeply intertwined and interact with each other in ways that change with context. In this report, training included different Machine Learning models for anomaly detection and compared their performance based on the confusion matrix of predicted outcomes. These anomaly detection methods are: One-class SVM, Isolation Forest and Elliptic Envelope. The data from normal operation was extracted, cleaned and transformed. Thereafter, models were trained, tested on new data and accordingly their parameters were tuned for optimum performance. The objective of this analysis is to improve the security of continuous processes against deviation as well as intrusion detection capability.
+# Advancements in Homomorphic Encryption: Exploring Applications and Technological Implications
 
-Keywords— Cyber Physical Systems (CPS), Anomaly Detection, Machine Learning, One-Class SVM, Isolation Forest, Elliptic Envelope, Principal Component Analysis (PCA), Dimensionality Reduction, Confusion Matrix, Imbalanced Datasets, Supervised and Unsupervised Learning.
-
+# Implementation and Analysis of the BB84 Quantum Key Distribution Protocol Utilizing the IBM Q QASM HPC Simulator
 
 
 
