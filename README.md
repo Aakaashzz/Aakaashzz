@@ -1,7 +1,7 @@
 ![](Profile.gif)
 
 
-### About 
+### In terms of self-description
 
 ➼ I'm a cybersecurity professional with a proven track record in identifying and mitigating a wide range of cybersecurity threats, risks, and vulnerabilities. My expertise reflects a comprehensive understanding of the ever-evolving landscape of information security. 
 
